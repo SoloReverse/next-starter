@@ -1,3 +1,8 @@
-# ReLife Job Application
+# Next.js 14 Starter
 
-[Relife Demo Site](https://relife.paperworks.ae)
+Includes:
+
+next-intl
+shadcn / radix components
+theme switcher
+tailwind
